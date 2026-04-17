@@ -45,6 +45,13 @@ eeg_ml/
 - Python 3.12+
 - [uv](https://github.com/astral-sh/uv) (recommended) or pip
 
+### Clone the repository
+
+```bash
+git clone https://github.com/radhika-khatri/eeg_ml.git
+cd eeg_ml
+```
+
 ### Install dependencies
 
 ```bash
